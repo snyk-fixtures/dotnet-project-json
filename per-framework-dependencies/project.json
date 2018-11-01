@@ -1,0 +1,17 @@
+{
+  "version": "3.1.0",
+  "dependencies": {
+    "Microsoft.Extensions.Testing.Abstractions": "1.0.0-preview2-003121",
+    "Newtonsoft.Json": "9.0.1"
+  },
+  "frameworks": {
+    "netstandard1.6": {
+      "dependencies": {
+        "NETStandard.Library": "1.6.0",
+        "System.Reflection.TypeExtensions": "4.1.0",
+        "System.Runtime.Serialization.Xml": "4.1.1",
+        "System.Text.Encodings.Web": "4.0.0"
+      }
+    }
+  }
+}
